@@ -12,3 +12,5 @@ script.Parent.Touched:Connect(function(hit)    --Creating a Touched function if 
 	end
 	
 end)
+
+
