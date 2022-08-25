@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @robloxDeveloper420
 - 👀 I’m interested in scripting and teaching
-- 🌱 I’m currently learning lua in rolox
+- 🌱 I’m currently learning lua in roblox
 - 📫 How to reach me ony tiktok(roblox_developer420) or my discord server (https://discord.gg/2RWQacfz)
 
 
